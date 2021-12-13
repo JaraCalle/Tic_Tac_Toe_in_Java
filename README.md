@@ -1,1 +1,1 @@
-# Tic_Tac_Toe_in_Java
+# TicTacToe_in_Java
